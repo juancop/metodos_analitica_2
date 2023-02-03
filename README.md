@@ -7,5 +7,7 @@ El material que aquí se encuentra estará principalmente en Notebooks de Python
 
 ## Contenidos
 
-1. **Optimización:** Contiene el repaso de Machine Learning abarcando optimización para Regresión Lineal y Regresión Logística. Implementa Gradiente Descendente. Se encuentra en `01_optimization`. 
+1. **Optimización:** Contiene el repaso de Machine Learning abarcando optimización para Regresión Lineal y Regresión Logística. Implementa Gradiente Descendente. Se encuentra en `01_optimization`.
+
+2. **SVM:** Contiene los slides ilustrativos respecto a datos linealmente separables y kernels.
 
